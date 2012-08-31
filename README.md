@@ -2,6 +2,10 @@
 # How many girls are attending your rails girls event?
 ## Use this app to know it quickly!
 
+
+![example](http://f.cl.ly/items/0M1r2S0o0i0P322v022y/screenshot.png)
+
+
 It uses Wufoo API and is set to be deployed to heroku!
 
 ##Usage
