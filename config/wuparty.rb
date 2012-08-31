@@ -1,0 +1,7 @@
+require 'wuparty'
+
+ACCOUNT = ENV['WUFOO_ACCOUNT']
+API_KEY = ENV['WUFOO_API_KEY']
+FORM_ID = ENV['WUFOO_FORM_ID']
+
+WUFOO = WuParty.new(ACCOUNT, API_KEY)
