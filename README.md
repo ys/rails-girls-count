@@ -1,5 +1,6 @@
 
-# Hello people! This app simply show how many girls are attending your rails girls event.
+# How many girls are attending your rails girls event?
+## Use this app to know it quickly!
 
 It uses Wufoo API and is set to be deployed to heroku!
 
