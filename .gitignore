@@ -1,3 +1,5 @@
+.sass-cache
+.rspec
 config/database.yml
 *.gem
 *.rbc
